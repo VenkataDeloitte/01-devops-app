@@ -1,3 +1,3 @@
-calss Demo{
+class Demo{
 	
 }
